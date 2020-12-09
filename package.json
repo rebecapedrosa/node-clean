@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rebecapedrosa/node-clean/issues"
   },
-  "homepage": "https://github.com/rebecapedrosa/node-clean#readme"
+  "homepage": "https://github.com/rebecapedrosa/node-clean#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
