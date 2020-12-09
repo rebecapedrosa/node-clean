@@ -1,0 +1,20 @@
+{
+  "name": "node-clean",
+  "version": "1.0.0",
+  "description": "Project API developed with clean architecture, TDD, Design Patterns and SOLID.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebecapedrosa/node-clean.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebecapedrosa/node-clean/issues"
+  },
+  "homepage": "https://github.com/rebecapedrosa/node-clean#readme"
+}
