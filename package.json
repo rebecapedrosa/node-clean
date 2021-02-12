@@ -4,7 +4,7 @@
   "description": "Project API developed with clean architecture, TDD, Design Patterns and SOLID.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --passWithNoTests",
+    "test": "jest --passWithNoTests --watch",
     "test:staged": "jest --passWithNoTests"
   },
   "repository": {
