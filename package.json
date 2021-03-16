@@ -1,6 +1,6 @@
 {
   "name": "node-clean",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Project API developed with clean architecture, TDD, Design Patterns and SOLID.",
   "main": "index.js",
   "scripts": {
