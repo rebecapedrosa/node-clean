@@ -107,7 +107,7 @@ describe('SignUp Controller', () => {
     expect(httpResponse.body).toEqual(new InvalidParamError('email'))
   })
 
-  test('Should return 400 if an invalid email is provided', () => {
+  test('Should call EmailValidator with correct email', () => {
     // sempre recebe uma instancia da classe que estamos testanto
     const { sut, emailValidatorStub } = makeSut()
 
